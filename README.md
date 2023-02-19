@@ -32,4 +32,8 @@
 
 
 Watch my contribution graph being eaten by a snake! 🐍
-![snake gif](https://github.com/ars-21/ars-21/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ars-21/ars-21/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ars-21/ars-21/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ars-21/ars-21/output/github-contribution-grid-snake.svg">
+</picture>
