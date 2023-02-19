@@ -32,4 +32,4 @@
 
 
 Watch my contribution graph being eaten by a snake! 🐍
-![snake gif](https://github.com/ManjuBhagtani/ars-21/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ars-21/ars-21/blob/output/github-contribution-grid-snake.svg)
