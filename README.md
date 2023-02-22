@@ -25,8 +25,8 @@
   
 <h3 align="left">Languages and Tools:</h3>  
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src=assets/Arduino.svg alt="arduino" width="40" height="40"/> 
-</a> <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank" rel="noreferrer"> <img src=assets/C.svg alt="c" width="40" height="40"/> 
 </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src=assets/Bash-Light.svg alt="bash" width="40" height="40"/> 
+</a> <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank" rel="noreferrer"> <img src=assets/C.svg alt="c" width="40" height="40"/> 
 </a> <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank" rel="noreferrer"> <img src=assets/CPP.svg alt="cplusplus" width="40" height="40"/> 
 </a> <a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src=assets/CMake-Light.svg alt="CMake" width="40" height="40"/> 
 </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=assets/Git.svg alt="git" width="40" height="40"/> 
