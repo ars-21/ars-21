@@ -31,6 +31,7 @@
 </a> <a href="https://cmake.org/" target="_blank" rel="noreferrer"> <img src=assets/CMake-Light.svg alt="CMake" width="40" height="40"/> 
 </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=assets/Git.svg alt="git" width="40" height="40"/> 
 </a> <a href="https://github.com/ars-21" target="_blank" rel="noreferrer"> <img src=assets/Github-Dark.svg alt="github" width="40" height="40"/> 
+</a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src=assets/Jupyter.png alt="Jupyter" width="40" height="40"/> 
 </a> <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src=assets/LaTeX-Light.svg alt="LaTeX" width="40" height="40"/> 
 </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src=assets/Linux-Light.svg alt="linux" width="40" height="40"/> 
 </a> <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src=assets/Lua-Light.svg alt="Lua" width="40" height="40"/> 
