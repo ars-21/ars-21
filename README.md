@@ -46,9 +46,9 @@
 </a> <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src=assets/VIM-Dark.svg alt="VIM" width="40" height="40"/> 
 </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src=assets/VSCode-Dark.svg alt="VSCode" width="40" height="40"/> </a> </p>  
 
-
+<!---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ars-21&show_icons=true&locale=en&layout=compact" alt="ars-21" /></p>  
-
+-->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ars-21&show_icons=true&locale=en" alt="ars-21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ars-21&" alt="ars-21" /></p>
