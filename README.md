@@ -3,17 +3,17 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ars-21&label=Profile%20views&color=0e75b6&style=flat" alt="ars-21" /> </p>  
   
-- 🏍️ I'm currently working on **Robotics, Computer Vision** and **Control System** Projects.
+- 🏍️ I'm currently working on **Machine Learning, Computer Vision** and **Data Science** Projects.
 
-- 🌱 I’m currently learning **PyTorch, Python extensions, Computer Vision** and **Machine-Learning.**  
+- 🌱 I’m currently learning **PyTorch, TensorFlow, Computer Vision, Machine Learning** and **Analytics & Data Science Tools.**  
   
-- 👯 I’m looking to collaborate on **Robotics, Computer Vision, Simulation** and **Machine-Learning** based projects.
+- 👯 I’m looking to collaborate on **Machine Learning, Computer Vision** and **Data Science** based projects.
   
-- 💬 Ask me about **Robotics, Python, Control Systems** and **Simulation.**  
+- 💬 Ask me about **Robotics, Computer Vision, Python, Machine Learning** and **Data Science.**  
   
 - 📫 Connect with me at **[asshah_b21@el.vjti.ac.in](mailto:asshah_b21@el.vjti.ac.in)**  
   
-- 📄 Know about my Experiences **[Resume](https://drive.google.com/file/d/1rJrWyeRmLdboNoVWAHxofk127eRyNC3m/view?usp=sharing)**  
+- 📄 Know about my Experiences **[Resume](https://drive.google.com/file/d/1hN7YyP1PpSfCCSVqoGTMKClCaIpnyNRl/view?usp=sharing)**  
   
 - ⚡ Fun fact **I'm an extremely curious personality.**  
   
