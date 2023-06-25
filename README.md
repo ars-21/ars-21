@@ -24,7 +24,7 @@
 </p>  
   
 <h3 align="left">Languages and Tools:</h3>
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)]
 
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src=assets/Arduino.svg alt="arduino" width="40" height="40"/> 
 </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src=assets/Bash-Light.svg alt="bash" width="40" height="40"/> 
