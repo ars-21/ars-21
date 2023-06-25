@@ -49,6 +49,9 @@
 <!---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ars-21&show_icons=true&locale=en&layout=compact" alt="ars-21" /></p>  
 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ars-21\&layout=compact)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ars-21&show_icons=true&locale=en" alt="ars-21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ars-21&" alt="ars-21" /></p>
