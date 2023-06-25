@@ -28,7 +28,7 @@
 [![image](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
 [![image](https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/bash-logo.svg)](https://www.gnu.org/software/bash/)
 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src=assets/Arduino.svg alt="arduino" width="40" height="40"/> 
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white alt="arduino" height="28"/> 
 </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src=assets/Bash-Light.svg alt="bash" width="40" height="40"/> 
 </a> <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank" rel="noreferrer"> <img src=assets/C.svg alt="c" width="40" height="40"/> 
 </a> <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank" rel="noreferrer"> <img src=assets/CPP.svg alt="cplusplus" width="40" height="40"/> 
