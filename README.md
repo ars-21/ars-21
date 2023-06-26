@@ -13,8 +13,9 @@
   
 - 📫 Connect with me at **[asshah_b21@el.vjti.ac.in](mailto:asshah_b21@el.vjti.ac.in)**  
   
-- 📄 Know about my Experiences **[Resume](https://drive.google.com/file/d/1hN7YyP1PpSfCCSVqoGTMKClCaIpnyNRl/view?usp=sharing)**  
-  
+<!--- 📄 Know about my Experiences **[Resume](https://drive.google.com/file/d/1hN7YyP1PpSfCCSVqoGTMKClCaIpnyNRl/view?usp=sharing)**  
+-->
+
 - ⚡ Fun fact **I'm an extremely curious personality.**  
   
 <h3 align="left">Connect with me:</h3>  
