@@ -44,7 +44,7 @@
 </a> <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src=https://1000marcas.net/wp-content/uploads/2020/02/Matlab-Logo-1.png alt="MATLAB" height="40"/> 
 </a> <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white alt="Microsoft Excel" height="40"/> 
 </a> <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white alt="Microsoft Office" height="40"/> 
-</a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white alt="Matplotlib" height="40"/> 
+</a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white alt="NumPy" height="40"/> 
 </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src=https://matplotlib.org/_static/logo_dark.svg alt="NumPy" height="40"/> 
 </a> <a href="https://octave.org/" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683 alt="GNU Octave" height="40"/> 
 </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white alt="OpenCV" height="40"/> 
