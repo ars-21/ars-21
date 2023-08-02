@@ -68,7 +68,9 @@ target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/SciPy-%2
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ars-21&show_icons=true&locale=en&layout=compact" alt="ars-21" /></p>  
+ <! ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ars-21\&layout=compact)
+-->
 
 
 
