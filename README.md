@@ -9,7 +9,7 @@
   
 - 👯 I’m looking to collaborate on **Machine Learning, Computer Vision** and **Data Science** based projects.
   
-- 💬 Ask me about **Robotics, Computer Vision, Python, Machine Learning** and **Data Science.**  
+- 💬 Ask me about **Computer Vision, Python, Machine Learning** and **Data Science.**  
   
 - 📫 Connect with me at **[asshah_b21@el.vjti.ac.in](mailto:asshah_b21@el.vjti.ac.in)**  
   
@@ -66,20 +66,21 @@ target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/SciPy-%2
 </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white alt="Visual Studio Code" height="40"/>
 </a> <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white alt="Windows	" height="40"/> </a> </p>  
 
-<!---
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ars-21&show_icons=true&locale=en&layout=compact" alt="ars-21" /></p>  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ars-21\&layout=compact)
--->
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ars-21&show_icons=true&locale=en" alt="ars-21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ars-21&" alt="ars-21" /></p>
 
-
+<!---
 Watch my contribution graph being eaten by a snake! 🐍
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ars-21/ars-21/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ars-21/ars-21/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ars-21/ars-21/output/github-contribution-grid-snake.gif">
 </picture>
+-->
