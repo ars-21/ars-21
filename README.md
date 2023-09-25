@@ -20,7 +20,6 @@
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
-<a href="mailto:asshah_b21@el.vjti.ac.in" target="aryan-linkedin"><img align="center" src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="Gmail: Aryan Sanjay Shah" height="40" />
 </a> <a href="https://www.linkedin.com/in/aryan-shah-ba33b7238/" target="aryan-linkedin"><img align="center" src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt="Aryan Shah" height="40" />
 <a href="https://www.instagram.com/aryan.shah.0721/" target="aryan-instagram"><img align="center" src=https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white alt="aryan.shah.0721" height="40" /></a>  
 </p>  
