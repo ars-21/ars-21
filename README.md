@@ -3,7 +3,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ars-21&label=Profile%20views&color=0e75b6&style=flat" alt="ars-21" /> </p>  
 
-- ⚡ I am a curious, enthusiastic learner, with a profound fascination at the intersection of Technology, and Finance, Economics, Consulting and Business Problems
+- ⚡ I am a curious, enthusiastic learner, with a profound fascination at the intersection of Technology, and Finance, Economics, Econometrics, Consulting and Business Problems
 
 - 🏍️ I'm currently working on **Machine Learning, Computer Vision** and **Data Science** Projects.
 
