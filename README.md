@@ -2,19 +2,18 @@
  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ars-21&label=Profile%20views&color=0e75b6&style=flat" alt="ars-21" /> </p>  
-  
+
+- ⚡ I am a curious, enthusiastic learner, with a profound fascination at the intersection of Technology, and Finance, Economics, Consulting and Business Problems
+
 - 🏍️ I'm currently working on **Machine Learning, Computer Vision** and **Data Science** Projects.
 
-- 🌱 I’m currently learning **PyTorch, TensorFlow, Computer Vision, Machine Learning** and **Analytics & Data Science Tools.**  
+- 🌱 I’m currently learning **Statistics, Analytics and Data Science** and **Machine Learning Tools.**  
   
-- 👯 I’m looking to collaborate on **Machine Learning, Computer Vision** and **Data Science** based projects.
+- 👯 I’m looking to collaborate on **Statistics, Econometrics, Finance, Machine Learning** and **application based - Data Science** based projects.
   
-- 💬 Ask me about **Computer Vision, Python, Machine Learning** and **Data Science.**  
+- 💬 Ask me about **Statistics, Econometrics, Finance, Computer Vision, Python, Machine Learning** and **Data Science.**  
   
 - 📫 Connect with me at **[asshah_b21@el.vjti.ac.in](mailto:asshah_b21@el.vjti.ac.in)**  
-  
-<!--- 📄 Know about my Experiences **[Resume](https://drive.google.com/file/d/1hN7YyP1PpSfCCSVqoGTMKClCaIpnyNRl/view?usp=sharing)**  
--->
 
 - ⚡ Fun fact **I'm an extremely curious personality.**  
   
